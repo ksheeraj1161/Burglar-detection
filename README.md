@@ -1,6 +1,6 @@
 # Burglar-detection
 
-Complete simulation of an easy simulation system has be achieved using appropriate techniques by decreasing additional effort for securing a place.
+Complete simulation of a surveillance system has be achieved using appropriate techniques by decreasing additional effort for securing a place.
 
 <h1> Requirements </h1>
 
