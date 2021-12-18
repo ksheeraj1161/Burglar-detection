@@ -1,6 +1,6 @@
 # Burglar-detection
 
-Complete simulation of a surveillance system has be achieved using appropriate techniques by decreasing additional effort for securing a place. .
+Complete simulation of a surveillance system has been achieved using appropriate techniques by decreasing additional effort for securing a place. .
 
 For any location, setting up the CCTV cams to monitor is one task, storing all the captured video is another, for larger places a person to monitor all the activuty is to be recruited. Any of these extending tedious tasks can be eliminated by replacing with the procedures discussed in this project. 
 
